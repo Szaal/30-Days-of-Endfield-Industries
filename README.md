@@ -12,3 +12,6 @@ I want to be fancy a bit in my item-list, so I want to combine various type of "
 
 <img width="468" height="732" alt="Wireframe1" src="https://github.com/user-attachments/assets/a32b3e20-6566-4142-89fb-ccca9df643ba" />
 Wireframe link: https://wireframe.cc/m5rUxQ
+
+## Theme
+Arknights Endfield color theme is bright and vivid yellow in front of simple plain white. It bears resemblance to the industrial code of color contrast of vivid, no-gradient color such as the yellow/black warning pattern, or other similar warning signs in construction sites. Granted, this kind of color palette is too limited for mobile development, so I went to the official website instead for some inspiration.
